@@ -1,6 +1,5 @@
 package com.example.cryptocurrencyapp.presentation.ui.coin_detail
 
-import com.example.cryptocurrencyapp.domain.models.Coin
 import com.example.cryptocurrencyapp.domain.models.CoinDetail
 
 data class CoinDetailState(

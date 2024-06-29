@@ -1,7 +1,5 @@
 package com.example.cryptocurrencyapp.domain.models
 
-import com.google.gson.annotations.SerializedName
-
 data class Coin(
     val id: String?,
     val isActive: Boolean?,
